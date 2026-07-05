@@ -42,8 +42,8 @@
     </build>
     <distributionManagement>
         <repository>
-        <id>nexus-releases</id> <!-- Match this ID with the settings. xml -- >
-        <url>http://3.137.168.74:8081/repository/java-packages/</url>
+            <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
+            <url>http://3.137.168.74:8081/repository/java-packages/</url>
         </repository>
     </distributionManagement>
 </project>
